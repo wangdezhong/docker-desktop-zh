@@ -1,0 +1,10 @@
+# 备份/临时产物（脚本运行时生成，绝不能提交）
+*.bak
+*.new
+*.old
+*.asar
+app.asar.dd-zh.json
+
+# 系统文件
+Thumbs.db
+Desktop.ini
